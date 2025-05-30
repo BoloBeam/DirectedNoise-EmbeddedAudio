@@ -1,0 +1,20 @@
+# .gitignore
+# OS
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*
+*.tmp
+*.bak
+*.swp
+*.lock*
+
+# VSCode
+.vscode/
+
+# PDF viewers
+*.pdf~
+
+# LibreOffice/Word temp
+.~lock.*
